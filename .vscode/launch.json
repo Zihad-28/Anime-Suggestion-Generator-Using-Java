@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainAppTerminal",
+            "request": "launch",
+            "mainClass": "animesuggestiongenerator.MainAppTerminal",
+            "projectName": "Anime Suggestion Generator Using API_8162d623"
+        },
+        {
+            "type": "java",
+            "name": "MainAppTerminal",
+            "request": "launch",
+            "mainClass": "MainAppTerminal",
+            "projectName": "Anime Suggestion Generator Using API_8162d623"
+        },
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "animesuggestiongenerator.MainApp",
+            "projectName": "Anime Suggestion Generator Using API_8162d623"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anime Suggestion Generator",
+            "request": "launch",
+            "mainClass": "animesuggestiongenerator.MainApp",
+            "projectName": "AnimeSuggestionGenerator"
+        }
+    ]
+}
